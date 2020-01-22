@@ -4,7 +4,7 @@
 
 ## Bad Visual:
 
-![](Bad_Vis.png)
+![ ](Bad_Vis.PNG)
 
 The bad visualization that I chose is sourced from the Pew Research
 Center, and was presented on the Nightly News in 2014. The author is
@@ -32,7 +32,7 @@ statistics like this, major problems can occur.
 
 ## Good Visual:
 
-![](Good_Vis.png)
+![ ](Good_Vis.PNG)
 
 The good visualization that I chose was one I created during a project
 for my department two years ago. I was asked to do an analysis of giving
