@@ -5,8 +5,7 @@ date: "1/14/2020"
 output:
   md_document:
     variant: gfm
-  html_document:
-    df_print: paged
+
 ---
 
 ```{r setup, include=FALSE}
